@@ -22,7 +22,7 @@ let port;
 
 let autoDeleteOnReceive = false;
 let enableConcatenation = true;
-let incomingCallIndication = false;
+let incomingCallIndication = true;
 let incomingSMSIndication = true;
 let pin = '';
 let customInitCommand = '';
